@@ -6,3 +6,7 @@ javac -d bin @source.txt
 
 COMMAND FOR RUNNING (from this directory):
 java -cp .;bin;**/*.class ThatsLife
+
+DEVELOPED BY:
+Gonzales, Mark Edward M.
+Lee, Hylene Jules G.
